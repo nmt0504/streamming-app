@@ -1,0 +1,23 @@
+{
+  "name": "streamming-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Toan Nguyen",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^17.0.15",
+    "@types/react-dom": "^17.0.9"
+  }
+}
